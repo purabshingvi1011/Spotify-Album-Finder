@@ -20,7 +20,7 @@ A web app built with **React**, **Vite**, and the **Spotify Web API** that allow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-album-finder.git
+   git clone https://github.com/your-username/Spotify-Album-Finder.git
    cd spotify-album-finder
    ```
 
